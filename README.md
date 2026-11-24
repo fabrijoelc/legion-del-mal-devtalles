@@ -8,7 +8,7 @@
 ![last commit](https://img.shields.io/github/last-commit/fabrijoelc/legion-del-mal-devtalles)
 ![license](https://img.shields.io/github/license/fabrijoelc/legion-del-mal-devtalles)
 
-# 🦹‍♂️ La Legión del Hiper Mal 
+# 🦹‍♂️ La Legión del Mal 
 
 > _"El mundo no se conquista con fuerza bruta, se conquista con un buen plan y control de versiones."_
 > — Lex Luthor, fundador
