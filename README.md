@@ -1,4 +1,4 @@
-![Legion-del-Mal](https://img.shields.io/badge/Legion--del--Mal-%C3%9Altima--Version-blue)
+![Legion-del-Mal](https://img.shields.io/badge/Legion--del--Mal-Última--Versión-blue)
 
 ![Git](https://img.shields.io/badge/git-2.45-F05032?style=for-the-badge&logo=git&logoColor=white)
 
